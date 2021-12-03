@@ -14,6 +14,8 @@ Cable with appropriate amount of conductors;
 And just slap 'em together.
 
 
+<img src="https://github.com/Xses-1/Commodore-64-Atari-C64-Controller-PCB/blob/main/example_controller.jpg">
+
 
 !!!!!!
 Second button does not work, I'll fix it later after testing. The documentation about 2nd button is not very clear on the internet.
